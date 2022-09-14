@@ -1,0 +1,15 @@
+{
+  "name": "gulp-2022",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dima Osenkov,",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
