@@ -1,0 +1,22 @@
+.no-webp body {
+  background: url("../img/paris.jpg") 0 0 no-repeat; }
+
+body {
+  background-color: black;
+}
+
+body span {
+  color: red;
+}
+
+@media (max-width: 768px) {
+  span {
+    font-size: 20px;
+  }
+
+  body {
+    background-color: green;
+  }
+}
+
+.webp body { background: url(../img/paris.webp) 0 0 no-repeat; }
